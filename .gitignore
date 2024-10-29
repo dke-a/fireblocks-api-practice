@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
+
+# Log files
+*.log
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Notes and miscellaneous
+notes.md
+
+# Python dependency files
+*.egg-info/
+*.dist-info/
+
+# Ignore Python cache
+*.pyc

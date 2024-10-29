@@ -1,0 +1,5 @@
+requests>=2.31.0
+PyJWT>=2.7.0
+python-dotenv>=1.0.0
+cryptography>=41.0.3  # Needed for RS256 JWT encoding
+rich>=13.5.2          # For enhanced terminal output
